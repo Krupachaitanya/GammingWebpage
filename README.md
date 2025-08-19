@@ -2,6 +2,10 @@
 
 Welcome to **GammingWebpage**! This project is designed to provide an engaging, modern, and interactive gaming-themed webpage experience. Whether you're a gamer, a developer, or just browsing, this site aims to deliver a visually appealing interface and intuitive user experience.
 
+<img width="797" height="504" alt="image" src="https://github.com/user-attachments/assets/3d4b0f42-6c01-4fbf-8a5d-0603a0e5eb25" />
+
+
+
 ## Table of Contents
 
 - [About the Project](#about-the-project)
