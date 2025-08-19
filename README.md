@@ -87,7 +87,7 @@ This project is licensed under the [MIT License](LICENSE).
 For questions, feedback, or collaborations:
 
 - **GitHub:** [Krupachaitanya](https://github.com/Krupachaitanya)
-- **Email:** krupachaitanya@example.com
+- **Email:** formystudiesbtech@example.com
 
 ---
 
